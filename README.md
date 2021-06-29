@@ -1,1 +1,1 @@
-# r-n-test
+# React Native test project
