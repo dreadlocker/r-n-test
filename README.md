@@ -1,3 +1,4 @@
 # React Native test project
-<img src="https://www.dropbox.com/s/r365tgxpocg2zhy/ReactNative.gif?dl=0" width="40" height="40" />
-![Alt Text](https://www.dropbox.com/s/r365tgxpocg2zhy/ReactNative.gif)
+![Alt Text](https://previews.dropbox.com/p/orig/ABN8Gw6hFaLuyA2Yw_MP1g-2_XqjAjZF1CLOpUDhTUJWmear5ToVuqYSqS7RpIQeLg0c6HEdKnj9HEDBbFsZJ6ExPzmVRiyWKfB09SAd2ZbVBdcvNrfnaHGjlR1dKQQ7foTWFcwH01PWZQjAUcryJzStzjHy-r9i74cYnP7utXn9vb7oenSeF9cBSkbx13FuSSAeKOYjsVPM7wzBb4kIzBRIEAZuRK9kRQ5czq9IypyeE7Xl8yWuI0mA5mLc2zrdRfKBomyFL3eZwIJiY-JrgndgG-xPWQ6XmW7k4zU2RCER6pQ_kRpLKiBc0bii1kz8o13cpAOjvLc0Y0AByfduPEOt/p.gif)
+![Alt Text](https://previews.dropbox.com/p/orig/ABN8Gw6hFaLuyA2Yw_MP1g-2_XqjAjZF1CLOpUDhTUJWmear5ToVuqYSqS7RpIQeLg0c6HEdKnj9HEDBbFsZJ6ExPzmVRiyWKfB09SAd2ZbVBdcvNrfnaHGjlR1dKQQ7foTWFcwH01PWZQjAUcryJzStzjHy-r9i74cYnP7utXn9vb7oenSeF9cBSkbx13FuSSAeKOYjsVPM7wzBb4kIzBRIEAZuRK9kRQ5czq9IypyeE7Xl8yWuI0mA5mLc2zrdRfKBomyFL3eZwIJiY-JrgndgG-xPWQ6XmW7k4zU2RCER6pQ_kRpLKiBc0bii1kz8o13cpAOjvLc0Y0AByfduPEOt/p.gif?fv_content=true&size_mode=5)
+
